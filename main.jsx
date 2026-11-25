@@ -1,5 +1,5 @@
 
-import "../script.js";
+import "./script.js";
 
 import "./driving-simulator.js";
 import "./car-showcase.js";
